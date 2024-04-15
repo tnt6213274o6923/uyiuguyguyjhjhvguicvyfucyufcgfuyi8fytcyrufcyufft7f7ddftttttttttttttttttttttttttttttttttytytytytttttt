@@ -11,7 +11,7 @@ from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI()
 origins = [
-    'http://localhost:8000',
+    'https://urban-pancake-6jwxx79vjr62qrp-38657.app.github.dev:8000',
 ]
 
 app.add_middleware(

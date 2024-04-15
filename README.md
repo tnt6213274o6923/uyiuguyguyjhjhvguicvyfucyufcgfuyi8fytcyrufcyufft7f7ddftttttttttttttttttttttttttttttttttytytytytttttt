@@ -14,3 +14,8 @@
 6.pipenv shell
 
 7.pipenv install -r requirements.txt
+
+## how to test
+
+1.pipenv shell
+2.uvicorn main:app --reload
