@@ -1,0 +1,8 @@
+{
+    "python.analysis.extraPaths": [
+        "/home/codespace/.vscode-remote/extensions/savvyanalyst.msc-adams-0.4.2/resources/adamspy"
+    ],
+    "python.autoComplete.extraPaths": [
+        "/home/codespace/.vscode-remote/extensions/savvyanalyst.msc-adams-0.4.2/resources/adamspy"
+    ]
+}
